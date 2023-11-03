@@ -31,16 +31,23 @@ namespace Upkarak_InterviewQuestion
         static void Main()
         {
 
-            double a = 5; 
-            double b = 2;
-            double output = Program.FindX(a, b);
-            // Display the result
-            Console.WriteLine($"The square root of (3*a+1)/b is: {output}");
+            try
+            {
+                double a = 5;
+                double b = 2;
+                double output = Program.FindX(a, b);
+                // Display the result
+                Console.WriteLine($"The square root of (3*a+1)/b is: {output}");
 
-            int[] arr = { 10, 5, 15, 7, 20, 3 };
-            int arrOutput = Program.LargestNumber(arr);
-            // Display the result
-            Console.WriteLine($"The largest number in array is: {arrOutput}");
+                int[] arr = { 10, 5, 15, 7, 20, 3 };
+                int arrOutput = Program.LargestNumber(arr);
+                // Display the result
+                Console.WriteLine($"The largest number in array is: {arrOutput}");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+            }
 
         }
 
