@@ -1,0 +1,14 @@
+C:\Users\nasee\source\repos\Upkarak_InterviewQuestion\Upkarak_InterviewQuestion\bin\Debug\net6.0\Upkarak_InterviewQuestion.exe
+C:\Users\nasee\source\repos\Upkarak_InterviewQuestion\Upkarak_InterviewQuestion\bin\Debug\net6.0\Upkarak_InterviewQuestion.deps.json
+C:\Users\nasee\source\repos\Upkarak_InterviewQuestion\Upkarak_InterviewQuestion\bin\Debug\net6.0\Upkarak_InterviewQuestion.runtimeconfig.json
+C:\Users\nasee\source\repos\Upkarak_InterviewQuestion\Upkarak_InterviewQuestion\bin\Debug\net6.0\Upkarak_InterviewQuestion.dll
+C:\Users\nasee\source\repos\Upkarak_InterviewQuestion\Upkarak_InterviewQuestion\bin\Debug\net6.0\Upkarak_InterviewQuestion.pdb
+C:\Users\nasee\source\repos\Upkarak_InterviewQuestion\Upkarak_InterviewQuestion\obj\Debug\net6.0\Upkarak_InterviewQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasee\source\repos\Upkarak_InterviewQuestion\Upkarak_InterviewQuestion\obj\Debug\net6.0\Upkarak_InterviewQuestion.AssemblyInfoInputs.cache
+C:\Users\nasee\source\repos\Upkarak_InterviewQuestion\Upkarak_InterviewQuestion\obj\Debug\net6.0\Upkarak_InterviewQuestion.AssemblyInfo.cs
+C:\Users\nasee\source\repos\Upkarak_InterviewQuestion\Upkarak_InterviewQuestion\obj\Debug\net6.0\Upkarak_InterviewQuestion.csproj.CoreCompileInputs.cache
+C:\Users\nasee\source\repos\Upkarak_InterviewQuestion\Upkarak_InterviewQuestion\obj\Debug\net6.0\Upkarak_InterviewQuestion.dll
+C:\Users\nasee\source\repos\Upkarak_InterviewQuestion\Upkarak_InterviewQuestion\obj\Debug\net6.0\refint\Upkarak_InterviewQuestion.dll
+C:\Users\nasee\source\repos\Upkarak_InterviewQuestion\Upkarak_InterviewQuestion\obj\Debug\net6.0\Upkarak_InterviewQuestion.pdb
+C:\Users\nasee\source\repos\Upkarak_InterviewQuestion\Upkarak_InterviewQuestion\obj\Debug\net6.0\Upkarak_InterviewQuestion.genruntimeconfig.cache
+C:\Users\nasee\source\repos\Upkarak_InterviewQuestion\Upkarak_InterviewQuestion\obj\Debug\net6.0\ref\Upkarak_InterviewQuestion.dll
